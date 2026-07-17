@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#07111e">
+  <meta name="color-scheme" content="dark">
+  <title>Stacja Kontroli Pojazdów Częstochowa | IDZIAK SKP</title>
+  <meta name="description" content="Stacja Kontroli Pojazdów IDZIAK w Częstochowie. Badania techniczne, przeglądy rejestracyjne i diagnostyka pojazdów. Festynowa 26A, tel. 509 736 253.">
+  <meta name="keywords" content="stacja kontroli pojazdów Częstochowa, badanie techniczne Częstochowa, przegląd rejestracyjny Częstochowa, SKP Częstochowa, diagnostyka samochodowa Częstochowa, warsztat samochodowy Częstochowa">
+  <meta name="author" content="IDZIAK SKP">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+  <meta name="geo.region" content="PL-24"><meta name="geo.placename" content="Częstochowa">
+  <link rel="canonical" href="https://idziak.com.pl/">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="preload" href="assets/hero-stacja-idziak-2060.webp" as="image" type="image/webp" fetchpriority="high">
+  <link rel="stylesheet" href="styles.css">
+
+  <meta property="og:locale" content="pl_PL">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Stacja Kontroli Pojazdów IDZIAK – Częstochowa">
+  <meta property="og:description" content="Badania techniczne i diagnostyka pojazdów. Festynowa 26A, Częstochowa. Zadzwoń: 509 736 253.">
+  <meta property="og:url" content="https://idziak.com.pl/">
+  <meta property="og:site_name" content="IDZIAK SKP">
+  <meta property="og:image" content="https://idziak.com.pl/assets/og-idziak-skp.webp">
+  <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Stacja Kontroli Pojazdów IDZIAK w Częstochowie">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"WebSite",
+    "name":"IDZIAK SKP",
+    "url":"https://idziak.com.pl/",
+    "inLanguage":"pl-PL",
+    "about":"Stacja kontroli pojazdów i badania techniczne w Częstochowie"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"AutomotiveBusiness",
+    "@id":"https://idziak.com.pl/#business",
+    "name":"Stacja Kontroli Pojazdów IDZIAK",
+    "alternateName":"IDZIAK SKP",
+    "url":"https://idziak.com.pl/",
+    "logo":"https://idziak.com.pl/assets/logo-idziak-skp.svg",
+    "image":[
+      "https://idziak.com.pl/assets/stacja-kontroli-pojazdow-idziak.webp",
+      "https://idziak.com.pl/assets/cupra-na-stanowisku-diagnostycznym.webp"
+    ],
+    "telephone":"+48 509 736 253",
+    "email":"idziak@list.pl",
+    "priceRange":"$$",
+    "address":{
+      "@type":"PostalAddress",
+      "streetAddress":"ul. Festynowa 26A",
+      "postalCode":"42-280",
+      "addressLocality":"Częstochowa",
+      "addressCountry":"PL"
+    },
+    "areaServed":["Częstochowa","Kłobuck","Blachownia","Poczesna","Mykanów","Konopiska","Mstów","Olsztyn"],
+    "openingHoursSpecification":[
+      {"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"08:00","closes":"17:00"},
+      {"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"08:00","closes":"13:00"}
+    ],
+    "hasOfferCatalog":{
+      "@type":"OfferCatalog","name":"Badania techniczne i diagnostyka",
+      "itemListElement":[
+        {"@type":"OfferCatalog","name":"Badania okresowe pojazdów"},
+        {"@type":"OfferCatalog","name":"Badania motocykli"},
+        {"@type":"OfferCatalog","name":"Badania pojazdów dostawczych"},
+        {"@type":"OfferCatalog","name":"Pierwsze badania techniczne"},
+        {"@type":"OfferCatalog","name":"Diagnostyka techniczna"}
+      ]
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+      {"@type":"Question","name":"W jakich godzinach działa Stacja Kontroli Pojazdów IDZIAK?","acceptedAnswer":{"@type":"Answer","text":"Stacja jest czynna od poniedziałku do piątku w godzinach 8:00–17:00 oraz w soboty od 8:00 do 13:00."}},
+      {"@type":"Question","name":"Gdzie znajduje się stacja IDZIAK w Częstochowie?","acceptedAnswer":{"@type":"Answer","text":"Stacja znajduje się przy ul. Festynowej 26A, 42-280 Częstochowa."}},
+      {"@type":"Question","name":"Jak sprawdzić aktualny czas oczekiwania na badanie?","acceptedAnswer":{"@type":"Answer","text":"Najlepiej zadzwonić pod numer 509 736 253 lub napisać przez WhatsApp przed przyjazdem."}},
+      {"@type":"Question","name":"Czy można łatwo wysłać lokalizację stacji?","acceptedAnswer":{"@type":"Answer","text":"Tak. Na stronie dostępny jest przycisk nawigacji Google Maps oraz funkcja udostępniania przez WhatsApp, SMS, e-mail i aplikacje telefonu."}}
+    ]
+  }
+  </script>
+</head>
+<body>
+<a class="skip-link" href="#main">Przejdź do treści</a>
+<header class="site-header" id="top">
+  <div class="header-inner container">
+    <a class="brand" href="#top" aria-label="IDZIAK SKP – strona główna"><img src="assets/logo-idziak-skp.svg" width="228" height="61" alt="IDZIAK SKP"></a>
+    <nav class="desktop-nav" aria-label="Główna nawigacja">
+      <a href="#o-nas">O nas</a><a href="#uslugi">Zakres badań</a><a href="#galeria">Galeria</a><a href="#artykuly">Poradniki</a><a href="#dojazd">Dojazd</a><a href="#kontakt">Kontakt</a>
+    </nav>
+    <div class="header-contact">
+      <a href="tel:+48509736253" class="header-phone"><span>509 736 253</span><small>Pon.–Pt. 8:00–17:00</small></a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="mobile-menu" aria-label="Otwórz menu"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+  <nav class="mobile-menu" id="mobile-menu" aria-label="Menu mobilne" hidden>
+    <a href="#o-nas">O nas</a><a href="#uslugi">Zakres badań</a><a href="#galeria">Galeria</a><a href="#artykuly">Poradniki</a><a href="#dojazd">Dojazd</a><a href="#kontakt">Kontakt</a>
+  </nav>
+</header>
+
+<main id="main">
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="hero-media" aria-hidden="true"><img src="assets/hero-stacja-idziak-2060.webp" alt="" width="1672" height="941" fetchpriority="high"></div>
+    <div class="hero-overlay"></div>
+    <div class="hero-content container">
+      <div class="hero-copy">
+        <p class="eyebrow">Stacja Kontroli Pojazdów • Częstochowa</p>
+        <h1 id="hero-title">Badania techniczne pojazdów <span>IDZIAK</span></h1>
+        <p class="hero-lead">Charakterystyczna stacja IDZIAK po nowoczesnej modernizacji: premium elewacja, pełny widok budynku z Cuprą, czytelna diagnostyka i sprawna obsługa przy ul. Festynowej 26A w Częstochowie.</p>
+        <ul class="hero-points" aria-label="Najważniejsze informacje">
+          <li>Pełny widok charakterystycznego budynku i wygodny wjazd</li><li>Czyste, nowoczesne stanowisko diagnostyczne</li><li>Pon.–Pt. 8:00–17:00, sobota 8:00–13:00</li>
+        </ul>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="tel:+48509736253" aria-label="Zadzwoń pod numer 509 736 253">
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M6.6 10.8a15.5 15.5 0 0 0 6.6 6.6l2.2-2.2c.3-.3.7-.4 1.1-.3 1.2.4 2.5.6 3.8.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.7 21 3 13.3 3 3.8c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.6.6 3.8.1.4 0 .8-.3 1.1l-2.2 2.1Z"/></svg>
+            <span><b>Zadzwoń</b><small>509 736 253</small></span>
+          </a>
+          <a class="btn btn-whatsapp" href="https://wa.me/48509736253?text=Dzie%C5%84%20dobry%2C%20chc%C4%99%20zapyta%C4%87%20o%20badanie%20techniczne." target="_blank" rel="noopener">
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M20.5 3.5A11.8 11.8 0 0 0 12.1 0C5.6 0 .3 5.3.3 11.8c0 2.1.5 4.1 1.6 5.9L.2 24l6.4-1.7c1.7.9 3.6 1.4 5.5 1.4h.1c6.5 0 11.8-5.3 11.8-11.8 0-3.2-1.2-6.1-3.5-8.4Zm-8.4 18.2c-1.7 0-3.4-.5-4.9-1.3l-.4-.2-3.8 1 1-3.7-.2-.4a9.7 9.7 0 1 1 8.3 4.6Zm5.4-7.3c-.3-.2-1.8-.9-2.1-1-.3-.1-.5-.2-.7.2-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-1.8-.9-3-1.6-4.2-3.6-.3-.5.3-.5.9-1.7.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.3 1.4 3.6c.2.2 2.4 3.7 5.8 5.2 2.2.9 3 .9 4.1.8.7-.1 1.8-.7 2.1-1.5.3-.7.3-1.4.2-1.5-.1-.3-.3-.4-.6-.6Z"/></svg>
+            <span><b>WhatsApp</b><small>Napisz do nas</small></span>
+          </a>
+          <a class="btn btn-dark" href="https://www.google.com/maps/search/?api=1&query=Festynowa+26A%2C+42-280+Cz%C4%99stochowa" target="_blank" rel="noopener">
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m21 3-7.4 18-2.5-8.1L3 10.4 21 3Z"/></svg>
+            <span><b>Nawigacja</b><small>Google Maps</small></span>
+          </a>
+        </div>
+        <button class="share-main" type="button" data-share>
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M18 16a3 3 0 0 0-2.4 1.2l-6.7-3.9c.1-.4.1-.8 0-1.2l6.7-3.9A3 3 0 1 0 15 6.7L8.3 10.6a3 3 0 1 0 0 2.8l6.7 3.9A3 3 0 1 0 18 16Z"/></svg>
+          Udostępnij stronę
+        </button>
+      </div>
+    </div>
+    <p class="visualization-note">Wizualizacja premium elewacji i oświetlenia budynku</p>
+  </section>
+
+  <section class="quick-services" aria-label="Najczęściej wybierane badania">
+    <div class="container quick-grid">
+      <a href="#uslugi"><span class="quick-icon">✓</span><span><b>Badania okresowe</b><small>Samochody osobowe</small></span></a>
+      <a href="#uslugi"><span class="quick-icon">M</span><span><b>Motocykle</b><small>Motocykle i skutery</small></span></a>
+      <a href="#uslugi"><span class="quick-icon">D</span><span><b>Pojazdy dostawcze</b><small>Sprawdź zakres telefonicznie</small></span></a>
+      <a href="#uslugi"><span class="quick-icon">1</span><span><b>Pierwsze badanie</b><small>Pojazdy zarejestrowane po raz pierwszy</small></span></a>
+      <a href="#uslugi"><span class="quick-icon">⌕</span><span><b>Diagnostyka</b><small>Kontrola stanu technicznego</small></span></a>
+    </div>
+  </section>
+
+  <section class="section about" id="o-nas">
+    <div class="container split">
+      <div class="media-card reveal"><img src="assets/cupra-na-stanowisku-diagnostycznym.webp" loading="lazy" width="1448" height="1086" alt="Cupra na czystym stanowisku diagnostycznym Stacji Kontroli Pojazdów IDZIAK w Częstochowie"></div>
+      <div class="content reveal">
+        <p class="eyebrow">IDZIAK – lokalna stacja w Częstochowie</p>
+        <h2>Rzetelne badanie techniczne i jasna informacja</h2>
+        <p>Sprawdzamy pojazdy na profesjonalnym, czystym stanowisku diagnostycznym. Klient otrzymuje czytelną informację o wyniku badania oraz elementach wymagających uwagi.</p>
+        <div class="trust-grid">
+          <div><b>Doświadczenie</b><span>Praktyczna wiedza diagnostów</span></div>
+          <div><b>Dokładność</b><span>Kontrola kluczowych układów pojazdu</span></div>
+          <div><b>Wygoda</b><span>Telefon, WhatsApp i szybka nawigacja</span></div>
+          <div><b>Lokalizacja</b><span>Festynowa 26A, Częstochowa</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section services" id="uslugi">
+    <div class="container">
+      <div class="section-head reveal"><p class="eyebrow">Zakres usług</p><h2>Badania techniczne i diagnostyka pojazdów</h2><p>Zakres konkretnego badania zależy od rodzaju pojazdu i uprawnień stacji. W razie wątpliwości zadzwoń przed przyjazdem.</p></div>
+      <div class="service-grid">
+        <article class="service-card reveal"><span>01</span><h3>Okresowe badanie techniczne</h3><p>Standardowe badanie pojazdu zgodnie z obowiązującymi wymaganiami.</p><a href="tel:+48509736253">Sprawdź dostępność</a></article>
+        <article class="service-card reveal"><span>02</span><h3>Motocykle i skutery</h3><p>Kontrola najważniejszych elementów bezpieczeństwa pojazdu jednośladowego.</p><a href="tel:+48509736253">Zadzwoń przed przyjazdem</a></article>
+        <article class="service-card reveal"><span>03</span><h3>Pojazdy dostawcze</h3><p>Badania pojazdów dostawczych w zakresie posiadanych uprawnień stacji.</p><a href="tel:+48509736253">Potwierdź kategorię</a></article>
+        <article class="service-card reveal"><span>04</span><h3>Pierwsze badanie</h3><p>Badanie techniczne pojazdów wymagających pierwszego wpisu lub weryfikacji.</p><a href="mailto:idziak@list.pl?subject=Pytanie%20o%20pierwsze%20badanie">Napisz e-mail</a></article>
+        <article class="service-card reveal"><span>05</span><h3>Badania dodatkowe</h3><p>Dodatkowe sprawdzenia wynikające ze skierowania lub zmian w pojeździe.</p><a href="tel:+48509736253">Ustal wymagania</a></article>
+        <article class="service-card reveal"><span>06</span><h3>Diagnostyka techniczna</h3><p>Weryfikacja elementów mających wpływ na sprawność i bezpieczeństwo jazdy.</p><a href="https://wa.me/48509736253?text=Dzie%C5%84%20dobry%2C%20chc%C4%99%20zapyta%C4%87%20o%20diagnostyk%C4%99%20pojazdu." target="_blank" rel="noopener">Napisz na WhatsApp</a></article>
+      </div>
+      <div class="price-note reveal"><b>Opłaty za badania techniczne</b><span>Stosujemy obowiązujące stawki urzędowe. Szczegóły dla konkretnego rodzaju pojazdu potwierdzimy telefonicznie.</span><a class="btn btn-outline" href="tel:+48509736253">Zapytaj o badanie</a></div>
+    </div>
+  </section>
+
+  <section class="section gallery-section" id="galeria">
+    <div class="container">
+      <div class="section-head reveal"><p class="eyebrow">Prawdziwa stacja, nowa jakość zdjęć</p><h2>Zobacz IDZIAK SKP od zewnątrz i od środka</h2></div>
+      <div class="gallery-grid">
+        <button class="gallery-item gallery-wide reveal" data-gallery="assets/stacja-kontroli-pojazdow-idziak.webp" aria-label="Powiększ zdjęcie budynku stacji"><img src="assets/stacja-kontroli-pojazdow-idziak.webp" loading="lazy" width="1672" height="941" alt="Nowoczesna elewacja Stacji Kontroli Pojazdów IDZIAK przy Festynowej 26A w Częstochowie"></button>
+        <button class="gallery-item reveal" data-gallery="assets/badanie-techniczne-cupra.webp" aria-label="Powiększ zdjęcie badania Cupry"><img src="assets/badanie-techniczne-cupra.webp" loading="lazy" width="1448" height="1086" alt="Badanie techniczne samochodu Cupra na stanowisku diagnostycznym"></button>
+        <button class="gallery-item reveal" data-gallery="assets/diagnostyka-oswietlenia-cupra.webp" aria-label="Powiększ zdjęcie diagnostyki Cupry"><img src="assets/diagnostyka-oswietlenia-cupra.webp" loading="lazy" width="1448" height="1086" alt="Diagnostyka techniczna samochodu Cupra w stacji IDZIAK"></button>
+      </div>
+    </div>
+  </section>
+
+  <section class="section insights" id="artykuly">
+    <div class="container">
+      <div class="section-head reveal"><p class="eyebrow">SEO lokalne i widoczność AI</p><h2>Poradniki pomocne dla klientów i wyszukiwarek AI</h2><p>Strona zawiera naturalne treści odpowiadające na realne pytania kierowców z Częstochowy i okolic. To wspiera pozycjonowanie lokalne w Google oraz lepsze zrozumienie strony przez wyszukiwarki AI.</p></div>
+      <div class="article-grid">
+        <article class="article-card reveal"><span>Artykuł 01</span><h3>Jak przygotować auto do badania technicznego?</h3><p>Krótka lista rzeczy do sprawdzenia przed przyjazdem: oświetlenie, ogumienie, szyby, wycieraczki, dokumenty i stan podstawowych układów pojazdu.</p><a href="#faq">Przeczytaj wskazówki</a></article>
+        <article class="article-card reveal"><span>Artykuł 02</span><h3>Najczęstsze usterki wykrywane na przeglądzie</h3><p>Zużyte żarówki, luzy w zawieszeniu, nieskuteczne hamulce, zły stan opon czy nieszczelności – to problemy, które warto wychwycić wcześniej.</p><a href="tel:+48509736253">Zapytaj diagnostę</a></article>
+        <article class="article-card reveal"><span>Artykuł 03</span><h3>Gdzie wykonać badanie techniczne w Częstochowie?</h3><p>IDZIAK SKP przy ul. Festynowej 26A obsługuje kierowców z Częstochowy oraz okolicznych miejscowości, zapewniając szybki kontakt i wygodny dojazd.</p><a href="#dojazd">Zobacz dojazd</a></article>
+        <article class="article-card reveal"><span>Artykuł 04</span><h3>Jak udostępnić lokalizację stacji jednym kliknięciem?</h3><p>Na stronie działają proste przyciski do telefonu, WhatsApp, nawigacji Google Maps oraz udostępniania linku przez aplikacje telefonu.</p><a href="#kontakt">Udostępnij stronę</a></article>
+      </div>
+      <div class="ai-strip reveal">
+        <div><b>Frazy lokalne</b><span>stacja kontroli pojazdów Częstochowa, badanie techniczne Częstochowa, SKP Częstochowa</span></div>
+        <div><b>Obszar działania</b><span>Częstochowa, Kłobuck, Blachownia, Poczesna, Mykanów, Konopiska, Mstów, Olsztyn</span></div>
+        <div><b>Dane zaufania</b><span>Adres, telefon, godziny otwarcia, mapa i FAQ zapisane także w danych strukturalnych Schema.org</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section location" id="dojazd">
+    <div class="container location-grid">
+      <div class="location-info reveal">
+        <p class="eyebrow">Dojazd i godziny</p><h2>Festynowa 26A, Częstochowa</h2>
+        <p>Dogodny dojazd dla klientów z Częstochowy oraz okolic, m.in. Kłobucka, Blachowni, Poczesnej, Mykanowa, Konopisk, Mstowa i Olsztyna.</p>
+        <div class="hours-card">
+          <div><span>Poniedziałek–piątek</span><b>8:00–17:00</b></div><div><span>Sobota</span><b>8:00–13:00</b></div><div><span>Niedziela</span><b>nieczynne</b></div>
+        </div>
+        <div class="location-actions"><a class="btn btn-primary" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query=Festynowa+26A%2C+42-280+Cz%C4%99stochowa">Uruchom nawigację</a><button class="btn btn-dark" type="button" data-share>Wyślij lokalizację</button></div>
+      </div>
+      <div class="map-card reveal"><iframe title="Mapa dojazdu do Stacji Kontroli Pojazdów IDZIAK" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=Festynowa+26A,+42-280+Cz%C4%99stochowa&output=embed"></iframe></div>
+    </div>
+  </section>
+
+  <section class="section faq" id="faq">
+    <div class="container faq-wrap">
+      <div class="section-head reveal"><p class="eyebrow">Najczęstsze pytania</p><h2>Informacje przed przyjazdem</h2></div>
+      <div class="accordion reveal">
+        <details><summary>W jakich godzinach działa stacja?</summary><p>Od poniedziałku do piątku w godzinach 8:00–17:00, a w soboty od 8:00 do 13:00.</p></details>
+        <details><summary>Czy muszę wcześniej dzwonić?</summary><p>Możesz przyjechać bezpośrednio. Telefon lub wiadomość WhatsApp pozwolą wcześniej potwierdzić aktualny czas oczekiwania i zakres badania.</p></details>
+        <details><summary>Jak najszybciej wysłać komuś adres stacji?</summary><p>Użyj przycisku „Udostępnij stronę”. Na telefonie otworzy się lista aplikacji, m.in. WhatsApp, Messenger, SMS i e-mail.</p></details>
+        <details><summary>Jak potwierdzić, czy stacja wykona badanie mojego pojazdu?</summary><p>Zadzwoń pod numer 509 736 253 i podaj rodzaj pojazdu oraz rodzaj potrzebnego badania.</p></details>
+      </div>
+    </div>
+  </section>
+
+  <section class="contact-strip" id="kontakt">
+    <div class="container contact-grid">
+      <a href="https://www.google.com/maps/search/?api=1&query=Festynowa+26A%2C+42-280+Cz%C4%99stochowa" target="_blank" rel="noopener"><span>Adres</span><b>Festynowa 26A<br>42-280 Częstochowa</b></a>
+      <a href="tel:+48509736253"><span>Telefon</span><b>509 736 253</b></a>
+      <div><span>Godziny otwarcia</span><b>Pon.–Pt. 8:00–17:00<br>Sobota 8:00–13:00</b></div>
+      <a href="mailto:idziak@list.pl"><span>E-mail</span><b>idziak@list.pl</b></a>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-inner"><img src="assets/logo-idziak-skp.svg" width="190" height="51" alt="IDZIAK SKP"><p>© <span id="year">2026</span> IDZIAK SKP. Wszystkie prawa zastrzeżone.</p><div><a href="polityka-prywatnosci.html">Polityka prywatności</a><button type="button" data-share>Udostępnij stronę</button></div></div>
+</footer>
+
+<div class="mobile-actions" aria-label="Szybkie działania">
+  <a class="ma-whatsapp" href="https://wa.me/48509736253?text=Dzie%C5%84%20dobry%2C%20chc%C4%99%20zapyta%C4%87%20o%20badanie%20techniczne." target="_blank" rel="noopener" aria-label="Napisz na WhatsApp">WA</a>
+  <button class="ma-share" type="button" data-share aria-label="Udostępnij stronę"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 16a3 3 0 0 0-2.4 1.2l-6.7-3.9c.1-.4.1-.8 0-1.2l6.7-3.9A3 3 0 1 0 15 6.7L8.3 10.6a3 3 0 1 0 0 2.8l6.7 3.9A3 3 0 1 0 18 16Z"/></svg></button>
+  <a class="ma-phone" href="tel:+48509736253" aria-label="Zadzwoń pod numer 509 736 253"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.5 15.5 0 0 0 6.6 6.6l2.2-2.2c.3-.3.7-.4 1.1-.3 1.2.4 2.5.6 3.8.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.7 21 3 13.3 3 3.8c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.6.6 3.8.1.4 0 .8-.3 1.1l-2.2 2.1Z"/></svg></a>
+</div>
+
+<div class="modal" id="share-modal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="share-title">
+  <div class="modal-backdrop" data-close-share></div>
+  <div class="share-sheet">
+    <button class="modal-close" type="button" data-close-share aria-label="Zamknij">×</button>
+    <h2 id="share-title">Udostępnij IDZIAK SKP</h2><p>Wyślij stronę lub lokalizację wybraną aplikacją.</p>
+    <div class="share-options">
+      <a data-share-wa target="_blank" rel="noopener"><b>WhatsApp</b><span>Wyślij wiadomość</span></a>
+      <a data-share-mail><b>E-mail</b><span>Otwórz klienta poczty</span></a>
+      <button type="button" data-copy-link><b>Kopiuj link</b><span>Szybkie kopiowanie adresu strony</span></button>
+      <a data-share-map target="_blank" rel="noopener"><b>Google Maps</b><span>Wyślij lokalizację stacji</span></a>
+    </div>
+  </div>
+</div>
+
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <button class="lightbox-close" type="button" aria-label="Zamknij podgląd">×</button>
+  <img src="" alt="Powiększone zdjęcie galerii">
+</div>
+
+<script src="script.js" defer></script>
+</body>
+</html>

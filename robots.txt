@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://idziak.com.pl/sitemap.xml
