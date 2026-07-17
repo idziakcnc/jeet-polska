@@ -13,7 +13,18 @@ section{padding:82px 0}.dark{background:#0d1923}.head{max-width:800px;margin-bot
 @media(max-width:1050px){.menu{display:none}.nav{flex-wrap:wrap;padding:10px 0}.nav-actions{display:flex;gap:8px;align-items:center}}
 @media(max-width:900px){.hg,.models,.contact{grid-template-columns:1fr}.gallery{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:560px){.w{width:calc(100% - 24px)}.gallery,.specs{grid-template-columns:1fr}.photo{height:400px}.nav .btn{display:none}.lang{flex-wrap:wrap}.lang button{padding:8px 7px}}
-</style></head><body>
+.photo{
+  background:transparent!important;
+  overflow:hidden!important;
+}
+
+.photo img{
+  width:100%!important;
+  height:100%!important;
+  display:block!important;
+  object-fit:cover!important;
+  object-position:center!important;
+}</style></head><body>
 <nav><div class="w nav">
 <a class="brand" href="#"><span class="mark">
 <svg viewBox="0 0 64 64" aria-hidden="true">
